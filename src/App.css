@@ -1,8 +1,12 @@
-.App {
-  text-align: center;
-}
+body{
+display:flex;
+align-items: center;
+justify-content: center;
+height: 100vh;
 
-.App-logo {
+} 
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -31,8 +35,8 @@
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
-  }
+  }100vh
   to {
     transform: rotate(360deg);
   }
-}
+} */ 
